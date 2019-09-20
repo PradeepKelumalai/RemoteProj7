@@ -1,0 +1,11 @@
+Command Mode
+
+Command mode is the mode you are in when you start (default mode)
+Command mode is the mode in which commands are given to move around in the file, to make changes, and to leave the file
+Commands are case sensitive: j not the same as J
+Most commands do not appear on the screen as you type them. Some commands will appear on the last line: : / ?
+Insert (or Text) Mode
+
+The mode in which text is created. (You must press <Return> at the end of each line unless you've set wrap margin.)
+There is more than one way to get into insert mode but only one way to leave: return to command mode by pressing <Esc>
+When in doubt about which mode you are in, press <Esc>
