@@ -8,4 +8,18 @@ Insert (or Text) Mode
 
 The mode in which text is created. (You must press <Return> at the end of each line unless you've set wrap margin.)
 There is more than one way to get into insert mode but only one way to leave: return to command mode by pressing <Esc>
+
 When in doubt about which mode you are in, press <Esc>
+ From Command Mode
+  
+    k    Up one line
+  
+    j    Down one line
+  
+    h    Left one character
+  
+    l    Right one character (or use <Spacebar>)
+  
+    w    Right one word
+  
+    b    Left one word
